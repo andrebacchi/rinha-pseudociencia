@@ -21,4 +21,8 @@ Teclado no modo Arcade: mover e pular com `WASD` ou setas, soco `J`, chute `K`, 
 
 ## Estrutura
 
-Arquivo único (`index.html`), com sprites e cenários embutidos. Sem dependências além das fontes do Google Fonts.
+O jogo é um arquivo único (`index.html`), com sprites, cenários e a biblioteca de QR code embutidos. Fora isso, só as fontes do Google Fonts.
+
+Para instalar como app: `manifest.webmanifest`, `sw.js` (abre offline depois da primeira visita) e os ícones `icon-192.png`, `icon-512.png` e `apple-touch-icon.png`.
+
+No menu: botão **← BACCHI LAB** (volta ao hub), **Instalar** e **QR code** (do endereço do jogo, para projetar em aula).
